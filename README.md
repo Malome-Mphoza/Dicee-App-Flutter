@@ -1,16 +1,22 @@
 # dicee_flutter_app
 
-A new Flutter application.
+A futter Application that has two images that reactively change when pressed
 
-## Getting Started
+#FlutterBrew
 
-This project is a starting point for a Flutter application.
+## Components used in the app
 
-A few resources to get you started if this is your first Flutter project:
+- Stateless and stateful widgets.
+- Dart data types.
+- Dart Functions.
+- Row widget.
+- Flatbutton widget.
+- Expanded widget.
+- Dart Math Library for randomizing the dice.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## The Final App
+![dicee](https://user-images.githubusercontent.com/77331723/107881397-12d60680-6e99-11eb-8295-98d45d33d472.gif)
 
-For help getting started with Flutter, view our
+For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
