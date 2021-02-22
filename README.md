@@ -1,6 +1,6 @@
 # dicee_flutter_app
 
-A futter Application that has two images that reactively change when pressed
+A flutter Application that has two images that reactively change when pressed
 
 #FlutterBrew
 
